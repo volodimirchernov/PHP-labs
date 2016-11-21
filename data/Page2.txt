@@ -1,0 +1,1 @@
+[[logo_center]] [[menu_on]] [[banner_center]] [[text_center]] [[contacts_left]] [[footer_normal]]
